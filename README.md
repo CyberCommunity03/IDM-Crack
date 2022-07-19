@@ -7,4 +7,5 @@
 3. Extract “IDM 6.xx Patcher v2.2.zip” (🗝️type password)
 4. Install “IDM 6.xx Patcher v2.2.exe”
 5. Done!!! Enjoy full version IDM!!!
-Password For your Zipped File - 123
+6. Password For your Zipped File - 123
+
